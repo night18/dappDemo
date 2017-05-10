@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[],"name":"remitter","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[],"name":"getRemitee","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"receiver","type":"address"}],"payable":true,"type":"constructor"}]

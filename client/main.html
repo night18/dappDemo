@@ -1,0 +1,16 @@
+<head>
+ <title>Send Ether</title>
+</head>
+<body>
+ <h1>Send Ether</h1>
+  {{> sendEther}}
+
+</body>
+
+<template name="sendEther">
+ <div><label for="amount">Amount:</label><input type="text" id="amount" placeholder="unit:eth"/></div>
+ <div><label for="receiver">To Address:</label><input type="text" id="receiver"/></div>
+ <div><button id="send">Send Ether</button></div><br>
+ <div>Remittee has {{startBalance}} eth before executing the contract</div>
+ <div>Remittee has {{endBalance}} eth after executing the contract</div>
+</template>
