@@ -1,5 +1,6 @@
 # dappDemo
-The first version of Meteor Decentralize Application Demo
+The first version of Meteor Decentralize Application Demo.
+
 Here is the blog post about the demo: https://medium.com/hci-wvu/how-to-build-your-first-%C3%B0app-fe0c89d8f95f
 
 1. Install the Meteor, ```$curl https://install.meteor.com/ | sh```
